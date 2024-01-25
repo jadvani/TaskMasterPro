@@ -1,5 +1,7 @@
 # TaskMaster Pro
-[![Resume Preview]([https://github.com/jadvani/jadvani.github.io/blob/master/img/preview.jpg](https://github.com/jadvani/TaskMasterPro/blob/main/logo.jpg))]()
+
+
+![Task Master Logo]([http://url/to/img.png](https://github.com/jadvani/TaskMasterPro/blob/main/logo.jpg))
 
 Welcome to TaskMaster Pro - your all-in-one project management solution!
 
