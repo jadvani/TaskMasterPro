@@ -1,5 +1,3 @@
-# TaskMaster Pro
-
 
 ![Task Master Logo](https://github.com/jadvani/TaskMasterPro/blob/main/logo.jpg)
 
